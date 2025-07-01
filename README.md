@@ -32,17 +32,3 @@ Pygame (optional, recommended)
 Sprite assets in the images/ folder
 
 Sound effects in sounds/, and background music in music/
-
-🚀 How to Run
-Install PgZero:
-
-bash
-Copiar
-Editar
-pip install pgzero
-Run the game:
-
-bash
-Copiar
-Editar
-pgzrun sky_jumper.py
